@@ -1,52 +1,113 @@
+<div align="center">
 
-Typing SVG
-👋 About Me
-yaml
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anuj%20Tiwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevAnuj772%20%E2%80%A2%20B.Tech%20CSE%20(AI%20%26%20ML)&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Java+%26+DSA+Learner+%E2%98%95;Building+Projects+with+AI+%26+Python+%F0%9F%90%8D;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## About Me
+
+```yaml
 Name     : Anuj Tiwari
 Handle   : DevAnuj772
-Degree   : B.Tech — Computer Science (AI & ML)
-Focus    : Java · DSA · Artificial Intelligence · Python
+Degree   : B.Tech - Computer Science (AI & ML)
+Focus    : Java - DSA - Artificial Intelligence - Python
 Status   : Building AI-powered projects & sharpening problem-solving skills
 Motto    : "Code it, break it, fix it, ship it."
-🎓 Pursuing B.Tech in CSE with AI & ML specialization
-☕ Deep into Java and mastering Data Structures & Algorithms
-🤖 Building real-world projects powered by AI, ML & Python
-🌱 Exploring Full Stack Development with React & Node.js
-⚡ Believer in clean code, continuous learning, and open source
-🛠️ Tech Stack
-Languages
+```
 
-JavaPythonJavaScriptTypeScript
+- Pursuing **B.Tech in CSE with AI & ML specialization**
+- Deep into **Java** and mastering **Data Structures & Algorithms**
+- Building real-world projects powered by **AI, ML & Python**
+- Exploring **Full Stack Development** with React & Node.js
+- Believer in clean code, continuous learning, and open source
 
-Frameworks & Web
+---
 
-ReactNext.jsNode.js
+## Tech Stack
 
-AI / ML
+**Languages**
 
-TensorFlowscikit-learnNumPyPandas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Tools & Platforms
+**Frameworks & Web**
 
-GitGitHubVS CodeIntelliJ IDEA
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-📊 GitHub Stats
-  
-🔥 Contribution Streak
-GitHub Streak
+**AI / ML**
 
-🏆 GitHub Trophies
-trophy
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-📫 Connect With Me
-GitHub
+**Tools & Platforms**
 
-Profile Views
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+---
 
+## GitHub Stats
 
+<div align="center">
 
-"The best way to predict the future is to build it."
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DevAnuj772&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnuj772&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
 
+</div>
 
+---
+
+## Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevAnuj772&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevAnuj772&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40DevAnuj772-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevAnuj772)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DevAnuj772&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
