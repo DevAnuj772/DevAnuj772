@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anuj%20Tiwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevAnuj772%20%E2%80%A2%20B.Tech%20CSE%20(AI%20%26%20ML)&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I am Anuj Tiwari
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Java+%26+DSA+Learner+%E2%98%95;Building+Projects+with+AI+%26+Python+%F0%9F%90%8D;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DevAnuj772&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DevAnuj772?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+Enthusiast;Java+%26+DSA+Learner;Building+Projects+with+AI+%26+Python;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -74,7 +82,7 @@ Motto    : "Code it, break it, fix it, ship it."
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevAnuj772&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevAnuj772&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,12 +110,6 @@ Motto    : "Code it, break it, fix it, ship it."
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevAnuj772&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
-
 *"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
