@@ -6,8 +6,8 @@
 </h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=DevAnuj772&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DevAnuj772?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DevAnuj772&color=6366f1&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/DevAnuj772?label=Followers&style=flat-square&color=6366f1" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+Enthusiast;Java+%26+DSA+Learner;Building+Projects+with+AI+%26+Python;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
@@ -70,9 +70,11 @@ Motto    : "Code it, break it, fix it, ship it."
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DevAnuj772&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnuj772&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
+| Metric | Value |
+|--------|-------|
+| Followers | ![followers](https://img.shields.io/github/followers/DevAnuj772?style=flat-square&color=6366f1) |
+| Public Repos | ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevAnuj772&query=public_repos&label=Repos&color=6366f1&style=flat-square) |
+| Profile Since | ![joined](https://img.shields.io/badge/GitHub-Since%202024-6366f1?style=flat-square&logo=github) |
 
 </div>
 
@@ -83,6 +85,16 @@ Motto    : "Code it, break it, fix it, ship it."
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevAnuj772&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Anuj Tiwari GitHub Activity Graph](https://ghchart.rshah.org/6366f1/DevAnuj772)](https://github.com/DevAnuj772)
 
 </div>
 
@@ -101,9 +113,5 @@ Motto    : "Code it, break it, fix it, ship it."
 <div align="center">
 
 <sub><i>"The best way to predict the future is to build it." - Alan Kay</i></sub>
-
-<br/>
-
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
