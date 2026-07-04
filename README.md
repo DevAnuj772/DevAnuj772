@@ -88,16 +88,6 @@ Motto    : "Code it, break it, fix it, ship it."
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevAnuj772&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -110,6 +100,10 @@ Motto    : "Code it, break it, fix it, ship it."
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+<sub><i>"The best way to predict the future is to build it." - Alan Kay</i></sub>
+
+<br/>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
